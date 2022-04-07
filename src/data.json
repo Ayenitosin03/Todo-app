@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "task": "Complete online javascript course",
+    "complete": true
+  }, {
+    "id": 2,
+    "task": "Jog around the park 3x",
+    "complete": true
+  }, {
+    "id": 3,
+    "task": "10 minutes meditations",
+    "complete": false
+  }, {
+    "id": 4,
+    "task": "Feed cat",
+    "complete": true
+  }]
